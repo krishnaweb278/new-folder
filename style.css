@@ -1,12 +1,8 @@
-div{ 
-  width: 100%;
-  hieght: 100%;
-  background: powderblue;
-}
+
 table{
   
-width:100%;
-size: 100%;
+width:100px;
+height: 900px;
 }
 button,input[type='text']{
   width: 100%;
