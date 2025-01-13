@@ -1,0 +1,14 @@
+div{ 
+  width: 100%;
+  hieght: 100%;
+  background: powderblue;
+}
+table{
+  
+width:100%;
+size: 100%;
+}
+button,input[type='text']{
+  width: 100%;
+  hieght: 100%;
+}
